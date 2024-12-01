@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Find the discharge through a circular channel having diameter 2.7m, depth of water is half of the diameter and bed slope as 1 in 1911. Take the value of k=2.36 in Bazin's formula.",
+      "qid": 1,
+      "option_a": "2107.55 lit/sec",
+      "option_b": "1810.87 lit/sec",
+      "option_c": "1427.67 lit/sec",
+      "option_d": "1378.92 lit/sec",
+      "correct_option": "b"
+   },
+   {
+      "question": "Find the discharge through a circular channel having diameter 2.6m, depth of water is half of the diameter and bed slope as 1 in 2099. Take the value of k=2.36 in Bazin's formula.",
+      "qid": 2,
+      "option_a": "1554.13 lit/sec",
+      "option_b": "1899.29 lit/sec",
+      "option_c": "1272.08 lit/sec",
+      "option_d": "1119.82 lit/sec",
+      "correct_option": "a"
+   }
+]
